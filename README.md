@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShakeelKhalid1913
+- 👀 I’m interested in data science, mobile and desktop applications.
+- 🌱 I’m currently learning Flutter.
+- 💞️ I’m looking to collaborate on Flutter and machine learning.
+- 📫 shakeelkhalid786@gmail.com
