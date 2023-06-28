@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Shakeel Khalid<br>👀 I’m interested in web development and machine learning.<br>🌱 I’m currently learning next.js.<br>💞️ I’m looking to collaborate on Flutter, MERN stack, and machine learning.<br>📫 shakeelkhalid786@gmail.com
+👋 Hi, I’m Shakeel Khalid<br>👀 I’m interested in web development and machine learning.<br>🌱 I’m currently learning next.js.<br>💞️ I’m looking to collaborate on Flutter, MERN stack, and machine learning projects.<br>📫 shakeelkhalid786@gmail.com
 
 
 ## 🌐 Socials:
