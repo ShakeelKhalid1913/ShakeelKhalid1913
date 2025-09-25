@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shakeelkhalid1913/shakeelkhalid1913/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shakeelkhalid1913/shakeelkhalid1913/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shakeelkhalid1913/shakeelkhalid1913/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 # 💫 About Me:
 👋 Hi, I’m Shakeel Khalid<br>👀 I’m interested in web development and machine learning.<br>🌱 I’m currently learning next.js.<br>💞️ I’m looking to collaborate on Flutter, MERN stack, and machine learning projects.<br>📫 shakeelkhalid786@gmail.com
